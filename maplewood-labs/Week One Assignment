@@ -1,0 +1,22 @@
+# Week 1: SOC Analyst Onboarding
+**Course:** CPSC 4584 | Special Topics in Information Security
+**Date:** August 31, 2026
+**Analyst:** [Hani Daoud]
+
+---
+
+## Maplewood Asset I Consider Highest Risk
+
+ Explored the CIA Triad(Confidentality, Integrity, and Availability). The CIA Triad which helped, identify Critical Assets. The Triad allowed the, proper attention to the right assets. With focus/attention to the most mission critical assets, for the specific organization. Which in this case the mission critical asset was the, Electronic Health Record (EHR). If the aspects from the CIA triad was compromised (such as the Confidentiality and Integrity), would heavily impact/tarnish the corporation's idenity.  ]
+
+
+
+## My Analyst Role Takeaway
+
+I begun learning fundamental commands in the linux terminal(window). These fundamental commands/concepts, helped me practice and prepare for a role in a Tier 1 SOC(Security Operation Center) Analyst. A Tier 1 SOC Analyst, includes tasks such as, investigating, documenting, and reporting findings.The Tier One SOC Analyst role. does not allow a analyst to act alone. but instead, escalate further up the chain. Learned Terms such as the shell(the program which allows you to communicate/interact with the linux OS). Learned concepts such as, root/user mode in the terminal. Also, terms such as, directory/path.
+
+---
+
+ Career Track Selected
+
+**Track:** Penetration Tester OR Network Admininstration. 

@@ -1,0 +1,156 @@
+Hani Daoud 
+
+DATE 
+
+[09/05/2026] 
+
+CHALLENGE NAME 
+
+[Undo] 
+
+CATEGORY 
+
+[General Skills] 
+
+DIFFICULTY 
+
+[Easy ] 
+
+PLATFORM 
+
+CyLab Security Academy 
+
+CAREER TRACK 
+
+[Penetration Testing/Network Administration] 
+
+ARTIFACT TYPE 
+
+Public Portfolio SOP 
+ 
+
+1. Challenge Overview 
+
+Describe the general security problem and learning objective in your own words. Do not reproduce protected challenge text or reveal the solution. 
+
+ This challenge requires knowledge of certain, intermediate Linux commands, to properly complete, and obtain the flag. The challenge expects you to have experience with such commands. With research, I was able to learn the knowledge regarding the concepts. 
+ 
+ 
+
+2. Purpose and Methodology 
+
+Explain what this SOP documents and the general approach you followed. Focus on your reasoning process rather than only listing commands. 
+
+ I followed the steps, and if needed, I used the hints and researched concepts needed to complete the challenge. With this method, I was able to finish the challenge and receive the flag.  
+ 
+
+
+3. Scope and Tools 
+
+Describe the authorized environment and the tools used. Include only information that is safe and permitted to publish. 
+
+Tool or Command 
+
+Purpose 
+
+CyberChef 
+
+To decrypt and decipher the commands into text. 
+
+Linux Manual 
+
+I used for help with certain commands, that was needed to finish the challenge. 
+
+Google (Research Aspect)  
+
+I used it as a resource to help, make my responses more efficient, and take less time.  
+
+
+4. Procedure Summary 
+
+Document the major steps at a level that demonstrates your process without functioning as a solution key. Redact flags, tokens, unique answers, and protected challenge details. 
+
+Step 1: [Using CyberChef] 
+
+[Describe the action, the reason for it, and the type of result you observed. Do not reveal the flag.] 
+
+ In this step, I used CyberChef to begin deciphering parts of the commands. The result was obtaining a part of the puzzle needed in the following steps.  
+ 
+ 
+Step 2: [Linux Manual] 
+
+[Describe the action, the reason for it, and the type of result you observed. Do not reveal the flag.] 
+
+In this step, I utilized a Linux Manual. I used this tool to help with finding certain commands; that was crucial to finishing the challenge. I observed another aspect of the puzzle, for the following steps.  
+ 
+
+Step 3: [Utilizing Research] 
+
+[Describe the action, the reason for it, and the type of result you observed. Do not reveal the flag.] 
+
+ 
+In the last step, I used the research tool to make me more efficient. The result was receiving the final piece of the puzzle needed to capture the flag.  
+ 
+
+5. Challenge Outcome 
+
+State whether you completed the challenge and summarize the final concept or technique that led to the solution. Do not include the flag. 
+
+I completed the challenge. With the resources listed, I was able to complete the puzzle and receive the final flag. 
+
+
+6. Troubleshooting and Decision-Making 
+
+Describe one obstacle, your original assumption, the evidence that changed your thinking, and the adjustment you made. 
+
+My obstacle I faced during this puzzle was knowing the specific commands that follow each step. With the right tools, I was able to find the final puzzle.  
+ 
+
+7. Skills Demonstrated 
+
+Skill 
+
+Evidence from This Challenge 
+
+Career Relevance 
+
+Utilizing Deciphering tools 
+
+Was used to help decipher parts of the puzzles needed to get the final answer.  
+
+This skill is used by Penetration Testers when needing to decipher messages/encryption.   
+
+Using scripts/commands 
+
+
+I demonstrated this in the challenge when I used the Linux manual to determine commands needed to help with a part of the response.  
+
+ Using scripts/commands is vital for Penetration Testers, especially Linux commands. 
+
+Researching important concepts 
+
+Research was used to help, with being efficient while completing tasks. 
+
+This is required in the career path of a Tier one SOC Analyst. Research and comparison between events are used for such a role. 
+
+ 
+8. What I Learned 
+
+Explain the security concept, what changed in your understanding, and how the challenge connects to the week’s Maplewood topic. 
+
+ 
+The concept of security was applied throughout the challenge. For example, it was used in the aspect of using deciphering tools to get the right response. 
+This challenge, I am slowly getting used to using tools like CyberChef, to decipher encrypted messages.This connects back to the Maplewood topic when dealing with roles such as penetration testing.  
+
+ 
+
+9. Career Connection 
+
+Identify one cybersecurity role that uses this skill. Explain how this artifact supports your target career direction or next learning goal. 
+
+ 
+Knowing commands needed to get a final result is a highlight of penetration testing.  
+ 
+ 
+
+ 

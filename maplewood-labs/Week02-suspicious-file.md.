@@ -36,7 +36,7 @@ A unknown text file was found was found on the home directory, of the clinics wo
 
 ## Escalation Recommendation
 
-[State whether you would escalate, identify the strongest evidence, and note at least one question that still requires Tier 2 investigation. I would escalate the incident further, to a Tier 2 Analyst. The strongest evidenace that I would present would be, the Timestamp Finding, and the Permission Findings. The Timestamp Finding, began the incident response, which may have helped protect against further incidents. Lastly, I would go with the Permissions Finding, because it shows that the file has an executable permission, which is odd for a "text file". 
+ [I would escalate the incident further, to a Tier 2 Analyst. The strongest evidenace that I would present would be, the Timestamp Finding, and the Permission Findings. The Timestamp Finding, began the overall incident response. Which may have, helped protect against further incidents. Lastly, I would go with the Permissions Finding. This is, because the file shows that it has an executable permission, which is odd for a "text file". 
 
 ---
 *CPSC 4584 | Governors State University | Fall 2026*

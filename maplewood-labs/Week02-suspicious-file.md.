@@ -1,0 +1,42 @@
+# Week 2: Suspicious File on a Nurse's Workstation
+**Course:** CPSC 4584 | Special Topics in Information Security
+**Date:** September 11, 2026
+**Analyst:** [Hani Daoud]
+**Incident ID:** INC-2026-0907-001
+
+---
+
+## Incident Summary
+
+A unknown text file was found was found on the home directory, of the clinics workstation. This file itself, containted things that were concerning. It needed to be analyzed, to protect from a possible incident from occuring, within the clinic. 
+
+---
+
+## Key Findings
+
+**Permission Finding:** [The file containted permissions that allowed the account, to have executable privilages on top of the already, read, and write permissions. The executable permissions for a text file raised suspicion. Which warranted for analysis, and possible esculations. ]
+**File Type Finding:** [The command allowed comparasion of the description of the file, to the actual file type of said document. This helped verify the document was what it claimed to be.]
+**Timestamp Finding:** [The Timestamp Finding uncovered another possible reason for esculation. The Timestamp, showed that the file was accessed outside the, timeline/schedule of the health clinic team.]
+**Strings Finding:** [This command help identify the contents of the file, without executtion of the file.]
+
+---
+
+
+## Terminal Commands Used
+
+| Command | Purpose |
+|---------|---------|
+| pwd && ls -la | [This helped me verify the contents within the directory. The command printed, and listed the all contents(both hidden as well) found in the current directory.] 
+| file [patient_notes.txt] | [This allowed me to compare the description against the file type.] |
+| stat [patient_notes.txt] | [This command help verify the following, of the file. The Access Date, the last modified date, the change date, and lastly, the Birth date of the file.] |
+| strings [patient_notes.txt] | [This command helped simplify/shortens the contents of the said file, which also eaier analysis. This command also you read said file, without running/opening its contents. ] |
+| find . -mtime -1 -type f | [This command hlped me identify the contents of the directory tree.] |
+
+---
+
+## Escalation Recommendation
+
+[State whether you would escalate, identify the strongest evidence, and note at least one question that still requires Tier 2 investigation. I would escalate the incident further, to a Tier 2 Analyst. The strongest evidenace that I would present would be, the Timestamp Finding, and the Permission Findings. The Timestamp Finding, began the incident response, which may have helped protect against further incidents. Lastly, I would go with the Permissions Finding, because it shows that the file has an executable permission, which is odd for a "text file". 
+
+---
+*CPSC 4584 | Governors State University | Fall 2026*
